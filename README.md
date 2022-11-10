@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=Kevin-D47&icon=5&color=6)](https://visitcount.itsvg.in)
+
 # 👋 Hi, I’m Kevin Duong
 
 # 💫 About Me:
@@ -56,7 +58,5 @@ Hobbies:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kevin-D47&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Kevin-D47&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

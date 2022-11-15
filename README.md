@@ -23,7 +23,8 @@ Hobbies:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevin-duong-513341216)
-Portfolio Website: [![website](https://img.shields.io/badge/Portfolio-Webiste-orange)](https://kevin-d47.github.io./)
+<br>
+[![website](https://img.shields.io/badge/Portfolio-Webiste-orange)](https://kevin-d47.github.io./)
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 

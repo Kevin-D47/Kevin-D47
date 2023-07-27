@@ -3,7 +3,7 @@
 # 👋 Hi, I’m Kevin Duong
 
 # 💫 About Me:
-🏫   I am a recent graduate of App Academy, excited to contribute the skills I have learned in the Tech World!!!
+🏫   I am a Full Stack Software Developer with a background in Digital Art Design, excited to contribute the skills I have learned in the Tech World!!!
 <br>
 
 🤝  Always open to collaborating with new devs whether to create a full-stack project or just to learn something new.
